@@ -1,0 +1,1090 @@
+Players:
+Player 1: 2♠, 2♠
+Player 2: 14♠, 14♠
+Player 1 Odds:24.75%
+Player 2 Odds:27.09%
+Draw Odds:48.16%
+Player 1 Odds:13.03%
+Player 2 Odds:13.74%
+Draw Odds:73.23%
+Player -16 Odds:6.82%
+Player 2 Odds:93.18%
+Draw Odds:0.0%
+Players:
+Player 1: 2♥, 2♥
+Player 2: J♠, J♠
+Player 3: 10♦, 10♦
+Player 4: 7♣, 7♣
+Player 5: 2♦, 2♦
+Player 6: 3♣, 3♣
+Player 7: 2♠, 2♠
+Player 1 Odds:5.46%
+Player 2 Odds:15.58%
+Player 3 Odds:27.15%
+Player 4 Odds:20.38%
+Player 5 Odds:10.19%
+Player 6 Odds:11.2%
+Player 7 Odds:7.88%
+Draw Odds:2.16%
+Player 1 Odds:0.17%
+Player 2 Odds:77.98%
+Player 3 Odds:3.7%
+Player 4 Odds:10.92%
+Player 5 Odds:2.86%
+Player 6 Odds:1.51%
+Player 7 Odds:2.86%
+Draw Odds:0.0%
+Player 1 Odds:0.0%
+Player 2 Odds:52.94%
+Player 3 Odds:20.59%
+Player 4 Odds:5.88%
+Player 5 Odds:5.88%
+Player 6 Odds:0.0%
+Player 7 Odds:14.71%
+Draw Odds:0.0%
+START OF RECORDPlayers:
+Player 1: 3♥, 3♥
+Player 2: 8♥, 8♥
+Player 1 Odds:38.87%
+Player 2 Odds:46.42%
+Draw Odds:14.71%
+Player 1 Odds:94.34%
+Player 2 Odds:4.75%
+Draw Odds:0.91%
+Player 1 Odds:100.0%
+Player 2 Odds:0.0%
+Draw Odds:0.0%
+END OF RECORD
+START OF RECORD
+Players:
+Player 1: Q♣, Q♣
+Player 2: 7♥, 7♥
+Player 1 Odds:32.23%
+Player 2 Odds:29.12%
+Draw Odds:38.65%
+Player 1 Odds:1.62%
+Player 2 Odds:85.35%
+Draw Odds:13.03%
+Player 1 Odds:0.0%
+Player 2 Odds:93.18%
+Draw Odds:6.82%
+END OF RECORD
+START OF RECORD
+Players:
+Player 1: K♦, K♦
+Player 2: 9♦, 9♦
+Player 1 Odds:41.64%
+Player 2 Odds:41.18%
+Draw Odds:17.18%
+Player 1 Odds:37.27%
+Player 2 Odds:58.18%
+Draw Odds:4.55%
+Player 1 Odds:81.82%
+Player 2 Odds:0.0%
+Draw Odds:18.18%
+END OF RECORD
+
+START OF RECORD
+Players:
+Player 1: 10♠, 10♠
+Player 2: Q♥, Q♥
+Player 3: 9♣, 9♣
+Player 4: 6♠, 6♠
+Player 5: 4♣, 4♣
+Player 6: 7♣, 7♣
+Player 7: 2♥, 2♥
+Player 8: 8♠, 8♠
+Player 1 Odds:8.07%
+Player 2 Odds:12.67%
+Player 3 Odds:16.06%
+Player 4 Odds:14.11%
+Player 5 Odds:15.11%
+Player 6 Odds:12.96%
+Player 7 Odds:8.0%
+Player 8 Odds:4.03%
+Draw Odds:8.99%
+Player 1 Odds:4.73%
+Player 2 Odds:72.35%
+Player 3 Odds:0.76%
+Player 4 Odds:3.6%
+Player 5 Odds:1.14%
+Player 6 Odds:2.27%
+Player 7 Odds:0.57%
+Player 8 Odds:0.76%
+Draw Odds:13.83%
+Player 1 Odds:0.0%
+Player 2 Odds:68.75%
+Player 3 Odds:0.0%
+Player 4 Odds:9.38%
+Player 5 Odds:6.25%
+Player 6 Odds:9.38%
+Player 7 Odds:0.0%
+Player 8 Odds:0.0%
+Draw Odds:6.25%
+END OF RECORD
+START OF RECORD
+Players:
+Player 1: 9♥, 9♥
+Player 2: 8♦, 8♦
+Player 1 Odds:26.12%
+Player 2 Odds:32.86%
+Draw Odds:41.02%
+Player 1 Odds:42.93%
+Player 2 Odds:56.67%
+Draw Odds:0.4%
+Player 1 Odds:100.0%
+Player 2 Odds:0.0%
+Draw Odds:0.0%
+END OF RECORD
+START OF RECORD
+Players:
+Player 1: 14♥, 14♥
+Player 2: 9♦, 9♦
+Player 1 Odds:41.96%
+Player 2 Odds:45.42%
+Draw Odds:12.62%
+Player 1 Odds:0.0%
+Player 2 Odds:99.09%
+Draw Odds:0.91%
+Player 1 Odds:0.0%
+Player 2 Odds:100.0%
+Draw Odds:0.0%
+END OF RECORD
+
+START OF RECORD
+Players:
+Player 1: Q♠, Q♠
+Player 2: J♠, J♠
+Player 1 Odds:42.07%
+Player 2 Odds:38.1%
+Draw Odds:19.83%
+Player 1 Odds:96.57%
+Player 2 Odds:3.13%
+Draw Odds:0.3%
+Player 1 Odds:100.0%
+Player 2 Odds:0.0%
+Draw Odds:0.0%
+END OF RECORD
+
+START OF RECORD
+Players:
+Player 1: 4♣, 4♣
+Player 2: 6♥, 6♥
+Player 1 Odds:40.76%
+Player 2 Odds:40.85%
+Draw Odds:18.39%
+Player 1 Odds:78.89%
+Player 2 Odds:21.11%
+Draw Odds:0.0%
+Player 1 Odds:72.73%
+Player 2 Odds:27.27%
+Draw Odds:0.0%
+END OF RECORD
+
+START OF RECORD
+Players:
+Player 1: 8♠, 8♠
+Player 2: 10♠, 10♠
+Player 3: 9♥, 9♥
+Player 1 Odds:34.05%
+Player 2 Odds:23.39%
+Player 3 Odds:33.63%
+Draw Odds:8.93%
+Player 1 Odds:20.71%
+Player 2 Odds:18.72%
+Draw Odds:36.1%
+Player 1 Odds:14.29%
+Player 2 Odds:14.29%
+Player 3 Odds:14.29%
+Draw Odds:57.14%
+END OF RECORD
+
+START OF RECORD
+Players:
+Player 1: K♥, K♥
+Player 2: 10♥, 10♥
+Player 1 Odds:38.46%
+Player 2 Odds:44.0%
+Draw Odds:17.54%
+Player 1 Odds:78.28%
+Player 2 Odds:21.72%
+Draw Odds:0.0%
+Player 3 Odds:24.47%
+Player 1 Odds:93.18%
+Player 2 Odds:6.82%
+Draw Odds:0.0%
+
+START OF RECORD
+Players:
+Player 1: 7♥, 7♥
+Player 2: 8♥, 8♥
+Player 1 Odds:17.39%
+Player 2 Odds:79.95%
+Draw Odds:2.66%
+Player 1 Odds:18.48%
+END OF RECORD
+Player 2 Odds:80.91%
+Draw Odds:0.61%
+Player 1 Odds:11.36%
+Player 2 Odds:88.64%
+Draw Odds:0.0%
+END OF RECORD
+
+START OF RECORD
+Player 1: 7♥, 7♥
+Player 2: 7♦, 7♦
+Player 3: 2♣, 2♣
+Player 1 Odds:32.32%
+Player 2 Odds:30.78%
+Players:
+Player 3 Odds:27.95%
+Draw Odds:8.95%
+Player 1 Odds:11.52%
+Player 2 Odds:37.43%
+Player 3 Odds:44.41%
+Draw Odds:6.64%
+Player 1 Odds:9.52%
+Player 2 Odds:33.33%
+Player 3 Odds:52.38%
+Draw Odds:4.76%
+END OF RECORD
+
+START OF RECORD
+Players:
+Player 1: 2♣, 2♣
+Player 2: 8♠, 8♠
+Player 3: 7♦, 7♦
+Player 1 Odds:31.32%
+Player 2 Odds:30.55%
+Player 3 Odds:32.13%
+Draw Odds:6.0%
+Player 1 Odds:14.4%
+Player 2 Odds:33.11%
+Player 3 Odds:52.16%
+Draw Odds:0.33%
+Player 1 Odds:0.0%
+Player 2 Odds:95.24%
+Player 3 Odds:4.76%
+Draw Odds:0.0%
+END OF RECORD
+
+START OF RECORD
+Players:
+Player 1: 5♠, 5♠
+Player 2: J♣, J♣
+Player 1 Odds:42.29%
+Player 2 Odds:36.08%
+Draw Odds:21.63%
+Player 1 Odds:25.25%
+Player 2 Odds:25.05%
+Draw Odds:49.7%
+Player 1 Odds:13.64%
+Player 2 Odds:13.64%
+Draw Odds:72.73%
+END OF RECORD
+
+START OF RECORD
+Players:
+Player 1: Q♦, Q♦
+Player 2: 6♦, 6♦
+Player 1 Odds:40.43%
+Player 2 Odds:47.25%
+Draw Odds:12.32%
+Player 1 Odds:35.35%
+Player 2 Odds:40.91%
+Draw Odds:23.74%
+Player 1 Odds:22.73%
+Player 2 Odds:50.0%
+Draw Odds:27.27%
+END OF RECORD
+
+START OF RECORD
+Players:
+Player 1: K♣, K♣
+Player 2: 9♦, 9♦
+Player 1 Odds:39.22%
+Player 2 Odds:44.92%
+Draw Odds:15.86%
+Player 1 Odds:20.81%
+Player 2 Odds:30.1%
+Draw Odds:49.09%
+Player 1 Odds:13.64%
+Player 2 Odds:22.73%
+Draw Odds:63.64%
+END OF RECORD
+
+START OF RECORD
+Players:
+Player 1: 14♣, 14♣
+Player 2: 6♣, 6♣
+Player 1 Odds:34.82%
+Player 2 Odds:52.06%
+Draw Odds:13.12%
+Player 1 Odds:34.24%
+Player 2 Odds:48.38%
+Draw Odds:17.37%
+Player 1 Odds:45.45%
+Player 2 Odds:31.82%
+Draw Odds:22.73%
+END OF RECORD
+
+START OF RECORD
+Players:
+Player 1: J♠, J♠
+Player 2: J♣, J♣
+Player 1 Odds:24.92%
+Player 2 Odds:36.73%
+Draw Odds:38.35%
+Player 1 Odds:10.61%
+Player 2 Odds:16.26%
+Draw Odds:73.13%
+Player 1 Odds:6.82%
+Player 2 Odds:6.82%
+Draw Odds:86.36%
+END OF RECORD
+
+START OF RECORD
+Players:
+Player 1: J♣, J♣
+Player 2: 10♥, 10♥
+Player 1 Odds:37.2%
+Player 2 Odds:41.45%
+Draw Odds:21.35%
+Player 1 Odds:65.86%
+Player 2 Odds:33.84%
+Draw Odds:0.3%
+Player 1 Odds:75.0%
+Player 2 Odds:25.0%
+Draw Odds:0.0%
+END OF RECORD
+
+START OF RECORD
+Players:
+Player 1: 2♠, 2♠
+Player 2: 5♣, 5♣
+Player 1 Odds:40.84%
+Player 2 Odds:37.18%
+Draw Odds:21.98%
+Player 1 Odds:85.45%
+Player 2 Odds:13.64%
+Draw Odds:0.91%
+Player 1 Odds:20.45%
+Player 2 Odds:79.55%
+Draw Odds:0.0%
+END OF RECORD
+
+START OF RECORD
+Players:
+Player 1: K♣, K♣
+Player 2: 3♣, 3♣
+Player 1 Odds:41.91%
+Player 2 Odds:38.92%
+Draw Odds:19.17%
+Player 1 Odds:7.58%
+Player 2 Odds:91.52%
+Draw Odds:0.91%
+Player 1 Odds:6.82%
+Player 2 Odds:93.18%
+Draw Odds:0.0%
+END OF RECORD
+
+START OF RECORD
+Players:
+Player 1: 10♦, 10♦
+Player 2: Q♠, Q♠
+Player 1 Odds:44.52%
+Player 2 Odds:40.24%
+Draw Odds:15.24%
+Player 1 Odds:31.82%
+Player 2 Odds:68.18%
+Draw Odds:0.0%
+Player 1 Odds:20.45%
+Player 2 Odds:79.55%
+Draw Odds:0.0%
+END OF RECORD
+
+START OF RECORD
+Players:
+Player 1: 5♦, 5♦
+Player 2: 5♠, 5♠
+Player 1 Odds:30.19%
+Player 2 Odds:25.02%
+Draw Odds:44.79%
+Player 1 Odds:26.36%
+Player 2 Odds:10.91%
+Draw Odds:62.73%
+Player 1 Odds:11.36%
+Player 2 Odds:6.82%
+Draw Odds:81.82%
+END OF RECORD
+
+START OF RECORD
+Players:
+Player 1: 3♠, 3♠
+Player 2: 4♦, 4♦
+Player 1 Odds:53.23%
+Player 2 Odds:42.18%
+Draw Odds:4.59%
+Player 1 Odds:98.38%
+Player 2 Odds:1.62%
+Draw Odds:0.0%
+Player 1 Odds:100.0%
+Player 2 Odds:0.0%
+Draw Odds:0.0%
+END OF RECORD
+
+START OF RECORD
+Players:
+Player 1: 14♦, 14♦
+Player 2: 4♣, 4♣
+Player 1 Odds:32.79%
+Player 2 Odds:35.21%
+Draw Odds:32.0%
+Player 1 Odds:43.94%
+Player 2 Odds:15.15%
+Draw Odds:40.91%
+Player 1 Odds:43.18%
+Player 2 Odds:15.91%
+Draw Odds:40.91%
+END OF RECORD
+
+START OF RECORD
+Players:
+Player 1: 8♣, 8♣
+Player 2: 4♣, 4♣
+Player 1 Odds:49.64%
+Player 2 Odds:32.25%
+Draw Odds:18.11%
+Player 1 Odds:25.35%
+Player 2 Odds:74.65%
+Draw Odds:0.0%
+Player 1 Odds:13.64%
+Player 2 Odds:86.36%
+Draw Odds:0.0%
+END OF RECORD
+
+START OF RECORD
+Players:
+Player 1: Q♠, Q♠
+Player 2: Q♦, Q♦
+Player 1 Odds:33.32%
+Player 2 Odds:26.13%
+Draw Odds:40.55%
+Player 1 Odds:91.21%
+Player 2 Odds:0.3%
+Draw Odds:8.48%
+Player 1 Odds:93.18%
+Player 2 Odds:0.0%
+Draw Odds:6.82%
+END OF RECORD
+
+START OF RECORD
+Players:
+Player 1: 5♥, 5♥
+Player 2: 4♣, 4♣
+Player 3: 6♠, 6♠
+Player 4: 5♠, 5♠
+Player 5: K♦, K♦
+Player 1 Odds:13.7%
+Player 2 Odds:25.2%
+Player 3 Odds:18.34%
+Player 4 Odds:12.01%
+Player 5 Odds:19.81%
+Draw Odds:10.94%
+Player 1 Odds:3.24%
+Player 2 Odds:5.67%
+Player 3 Odds:34.41%
+Player 4 Odds:9.72%
+Player 5 Odds:43.99%
+Draw Odds:2.97%
+Player 1 Odds:2.63%
+Player 2 Odds:2.63%
+Player 3 Odds:21.05%
+Player 4 Odds:7.89%
+Player 5 Odds:65.79%
+Draw Odds:0.0%
+END OF RECORD
+
+START OF RECORD
+Players:
+Player 1: 3♦, 3♦
+Player 2: 7♦, 7♦
+Player 1 Odds:18.25%
+Player 2 Odds:78.72%
+Draw Odds:3.03%
+Player 1 Odds:15.35%
+Player 2 Odds:69.39%
+Draw Odds:15.25%
+Player 1 Odds:6.82%
+Player 2 Odds:86.36%
+Draw Odds:6.82%
+END OF RECORD
+
+START OF RECORD
+Players:
+Player 1: 10♠, 10♠
+Player 2: K♣, K♣
+Player 3: 4♣, 4♣
+Player 1 Odds:19.9%
+Player 2 Odds:52.78%
+Player 3 Odds:25.88%
+Draw Odds:1.44%
+Player 1 Odds:21.04%
+Player 2 Odds:74.2%
+Player 3 Odds:2.33%
+Draw Odds:2.44%
+Player 1 Odds:4.76%
+Player 2 Odds:85.71%
+Player 3 Odds:4.76%
+Draw Odds:4.76%
+END OF RECORD
+
+START OF RECORD
+Players:
+Player 1: 9♦, 9♦
+Player 2: 2♥, 2♥
+Player 1 Odds:45.53%
+Player 2 Odds:37.07%
+Draw Odds:17.4%
+Player 1 Odds:41.11%
+Player 2 Odds:19.39%
+Draw Odds:39.49%
+Player 1 Odds:15.91%
+Player 2 Odds:84.09%
+Draw Odds:0.0%
+END OF RECORD
+
+START OF RECORD
+Players:
+Player 1: 14♥, 14♥
+Player 2: 6♠, 6♠
+Player 1 Odds:50.49%
+Player 2 Odds:36.48%
+Draw Odds:13.03%
+Player 1 Odds:95.15%
+Player 2 Odds:4.85%
+Draw Odds:0.0%
+Player 1 Odds:100.0%
+Player 2 Odds:0.0%
+Draw Odds:0.0%
+END OF RECORD
+
+START OF RECORD
+Players:
+Player 1: 4♥, 4♥
+Player 2: 10♣, 10♣
+Player 1 Odds:38.28%
+Player 2 Odds:40.16%
+Draw Odds:21.56%
+Player 1 Odds:76.16%
+Player 2 Odds:22.53%
+Draw Odds:1.31%
+Player 1 Odds:86.36%
+Player 2 Odds:13.64%
+Draw Odds:0.0%
+END OF RECORD
+
+START OF RECORD
+Players:
+Player 1: 4♥, 4♥
+Player 2: 4♣, 4♣
+Player 3: 8♠, 8♠
+Player 4: J♥, J♥
+Player 1 Odds:14.99%
+Player 2 Odds:6.2%
+Player 3 Odds:61.99%
+Player 4 Odds:13.0%
+Draw Odds:3.82%
+Player 1 Odds:10.98%
+Player 2 Odds:1.83%
+Player 3 Odds:48.05%
+Player 4 Odds:38.41%
+Draw Odds:0.73%
+Player 1 Odds:20.0%
+Player 2 Odds:0.0%
+Player 3 Odds:50.0%
+Player 4 Odds:30.0%
+Draw Odds:0.0%
+END OF RECORD
+
+START OF RECORD
+Players:
+Player 1: 4♥, 4♥
+Player 2: 9♠, 9♠
+Player 1 Odds:26.42%
+Player 2 Odds:33.26%
+Draw Odds:40.32%
+Player 1 Odds:0.3%
+Player 2 Odds:98.79%
+Draw Odds:0.91%
+Player 1 Odds:0.0%
+Player 2 Odds:100.0%
+Draw Odds:0.0%
+END OF RECORD
+
+START OF RECORD
+Players:
+Player 1: 5♣, 5♣
+Player 2: 10♦, 10♦
+Player 1 Odds:32.67%
+Player 2 Odds:65.25%
+Draw Odds:2.08%
+Player 1 Odds:92.63%
+Player 2 Odds:7.37%
+Draw Odds:0.0%
+Player 1 Odds:100.0%
+Player 2 Odds:0.0%
+Draw Odds:0.0%
+END OF RECORD
+
+START OF RECORD
+Players:
+Player 1: 3♣, 3♣
+Player 2: 7♦, 7♦
+Player 1 Odds:44.42%
+Player 2 Odds:40.89%
+Draw Odds:14.69%
+Player 1 Odds:14.14%
+Player 2 Odds:84.95%
+Draw Odds:0.91%
+Player 1 Odds:6.82%
+Player 2 Odds:93.18%
+Draw Odds:0.0%
+END OF RECORD
+
+START OF RECORD
+Players:
+Player 1: J♣, J♣
+Player 2: 8♣, 8♣
+Player 3: 5♣, 5♣
+Player 4: 2♣, 2♣
+Player 5: 9♦, 9♦
+Player 6: 4♠, 4♠
+Player 7: Q♥, Q♥
+Player 8: 3♥, 3♥
+Player 1 Odds:15.94%
+Player 2 Odds:14.3%
+Player 3 Odds:9.77%
+Player 4 Odds:6.45%
+Player 5 Odds:15.64%
+Player 6 Odds:7.47%
+Player 7 Odds:19.68%
+Player 8 Odds:7.35%
+Draw Odds:3.4%
+Player 1 Odds:5.87%
+Player 2 Odds:0.57%
+Player 3 Odds:0.19%
+Player 4 Odds:83.14%
+Player 5 Odds:4.17%
+Player 6 Odds:0.57%
+Player 7 Odds:4.92%
+Player 8 Odds:0.57%
+Draw Odds:0.0%
+Player 1 Odds:21.88%
+Player 2 Odds:0.0%
+Player 3 Odds:0.0%
+Player 4 Odds:71.88%
+Player 5 Odds:6.25%
+Player 6 Odds:0.0%
+Player 7 Odds:0.0%
+Player 8 Odds:0.0%
+Draw Odds:0.0%
+END OF RECORD
+
+START OF RECORD
+Players:
+Player 1: 9♠, 9♠
+Player 2: 14♦, 14♦
+Player 1 Odds:48.15%
+Player 2 Odds:36.32%
+Draw Odds:15.53%
+Player 1 Odds:88.59%
+Player 2 Odds:6.87%
+Draw Odds:4.55%
+Player 1 Odds:100.0%
+Player 2 Odds:0.0%
+Draw Odds:0.0%
+END OF RECORD
+
+START OF RECORD
+Players:
+Player 1: Q♦, Q♦
+Player 2: J♦, J♦
+Player 1 Odds:42.04%
+Player 2 Odds:35.95%
+Draw Odds:22.01%
+Player 1 Odds:31.62%
+Player 2 Odds:23.23%
+Draw Odds:45.15%
+Player 1 Odds:40.91%
+Player 2 Odds:13.64%
+Draw Odds:45.45%
+END OF RECORD
+
+START OF RECORD
+Players:
+Player 1: 7♠, 7♠
+Player 2: 4♣, 4♣
+Player 1 Odds:38.32%
+Player 2 Odds:48.13%
+Draw Odds:13.55%
+Player 1 Odds:41.92%
+Player 2 Odds:55.35%
+Draw Odds:2.73%
+Player 1 Odds:40.91%
+Player 2 Odds:59.09%
+Draw Odds:0.0%
+END OF RECORD
+
+START OF RECORD
+Players:
+Player 1: J♣, J♣
+Player 2: 2♣, 2♣
+Player 1 Odds:45.28%
+Player 2 Odds:33.5%
+Draw Odds:21.22%
+Player 1 Odds:32.42%
+Player 2 Odds:15.86%
+Draw Odds:51.72%
+Player 1 Odds:77.27%
+Player 2 Odds:22.73%
+Draw Odds:0.0%
+END OF RECORD
+
+START OF RECORD
+Players:
+Player 1: 9♥, 9♥
+Player 2: 10♥, 10♥
+Player 1 Odds:26.34%
+Player 2 Odds:30.11%
+Draw Odds:43.55%
+Player 1 Odds:77.88%
+Player 2 Odds:20.3%
+Draw Odds:1.82%
+Player 1 Odds:90.91%
+Player 2 Odds:9.09%
+Draw Odds:0.0%
+END OF RECORD
+
+START OF RECORD
+Players:
+Player 1: J♥, J♥
+Player 2: 4♠, 4♠
+Player 1 Odds:29.06%
+Player 2 Odds:24.54%
+Draw Odds:46.4%
+Player 1 Odds:86.77%
+Player 2 Odds:10.0%
+Draw Odds:3.23%
+Player 1 Odds:93.18%
+Player 2 Odds:6.82%
+Draw Odds:0.0%
+END OF RECORD
+
+START OF RECORD
+Players:
+Player 1: J♠, J♠
+Player 2: 8♣, 8♣
+Player 3: Q♥, Q♥
+Player 4: 9♦, 9♦
+Player 5: 8♦, 8♦
+Player 6: 10♣, 10♣
+Player 7: 6♠, 6♠
+Player 8: 4♥, 4♥
+Player 1 Odds:31.66%
+Player 2 Odds:5.72%
+Player 3 Odds:12.37%
+Player 4 Odds:14.44%
+Player 5 Odds:13.72%
+Player 6 Odds:0.01%
+Player 7 Odds:11.06%
+Player 8 Odds:8.65%
+Draw Odds:2.37%
+Player 1 Odds:8.9%
+Player 2 Odds:15.53%
+Player 3 Odds:20.27%
+Player 4 Odds:1.14%
+Player 5 Odds:6.63%
+Player 6 Odds:0.0%
+Player 7 Odds:26.52%
+Player 8 Odds:17.8%
+Draw Odds:3.22%
+Player 1 Odds:3.12%
+Player 2 Odds:9.38%
+Player 3 Odds:18.75%
+Player 4 Odds:0.0%
+Player 5 Odds:25.0%
+Player 6 Odds:0.0%
+Player 7 Odds:34.38%
+Player 8 Odds:9.38%
+Draw Odds:0.0%
+END OF RECORD
+
+START OF RECORD
+Players:
+Player 1: 2♥, 2♥
+Player 2: 2♣, 2♣
+Player 1 Odds:27.27%
+Player 2 Odds:29.81%
+Draw Odds:42.92%
+Player 1 Odds:7.47%
+Player 2 Odds:39.7%
+Draw Odds:52.83%
+Player 1 Odds:4.55%
+Player 2 Odds:25.0%
+Draw Odds:70.45%
+END OF RECORD
+
+START OF RECORD
+Players:
+Player 1: 4♥, 4♥
+Player 2: 2♣, 2♣
+Player 1 Odds:37.4%
+Player 2 Odds:43.51%
+Draw Odds:19.09%
+Player 1 Odds:13.74%
+Player 2 Odds:81.92%
+Draw Odds:4.34%
+Player 1 Odds:11.36%
+Player 2 Odds:84.09%
+Draw Odds:4.55%
+END OF RECORD
+
+START OF RECORD
+Players:
+Player 1: 2♣, 2♣
+Player 2: 7♥, 7♥
+Player 1 Odds:24.55%
+Player 2 Odds:37.85%
+Draw Odds:37.6%
+Player 1 Odds:10.3%
+Player 2 Odds:16.67%
+Draw Odds:73.03%
+Player 1 Odds:6.82%
+Player 2 Odds:25.0%
+Draw Odds:68.18%
+END OF RECORD
+
+START OF RECORD
+Players:
+Player 1: 4♥, 4♥
+Player 2: 10♣, 10♣
+Player 1 Odds:28.79%
+Player 2 Odds:22.36%
+Draw Odds:48.85%
+Player 1 Odds:12.22%
+Player 2 Odds:18.08%
+Draw Odds:69.7%
+Player 1 Odds:6.82%
+Player 2 Odds:15.91%
+Draw Odds:77.27%
+END OF RECORD
+
+START OF RECORD
+Players:
+Player 1: 7♣, 7♣
+Player 2: K♦, K♦
+Player 1 Odds:42.35%
+Player 2 Odds:39.39%
+Draw Odds:18.26%
+Player 1 Odds:58.08%
+Player 2 Odds:38.08%
+Draw Odds:3.84%
+Player 1 Odds:86.36%
+Player 2 Odds:9.09%
+Draw Odds:4.55%
+END OF RECORD
+
+START OF RECORD
+Players:
+Player 1: 5♦, 5♦
+Player 2: J♠, J♠
+Player 1 Odds:40.3%
+Player 2 Odds:58.63%
+Draw Odds:1.07%
+Player 1 Odds:15.76%
+Player 2 Odds:82.02%
+Draw Odds:2.22%
+Player 1 Odds:6.82%
+Player 2 Odds:93.18%
+Draw Odds:0.0%
+END OF RECORD
+
+START OF RECORD
+Players:
+Player 1: 10♠, 10♠
+Player 2: K♥, K♥
+Player 1 Odds:45.72%
+Player 2 Odds:39.57%
+Draw Odds:14.71%
+Player 1 Odds:78.08%
+Player 2 Odds:21.92%
+Draw Odds:0.0%
+Player 1 Odds:77.27%
+Player 2 Odds:22.73%
+Draw Odds:0.0%
+END OF RECORD
+
+START OF RECORD
+Players:
+Player 1: 8♥, 8♥
+Player 2: 3♠, 3♠
+Player 1 Odds:42.09%
+Player 2 Odds:36.56%
+Draw Odds:21.35%
+Player 1 Odds:23.33%
+Player 2 Odds:22.42%
+Draw Odds:54.24%
+Player 1 Odds:13.64%
+Player 2 Odds:13.64%
+Draw Odds:72.73%
+END OF RECORD
+
+START OF RECORD
+Players:
+Player 1: 4♠, 4♠
+Player 2: J♦, J♦
+Player 3: 9♣, 9♣
+Player 4: 9♥, 9♥
+Player 5: 3♣, 3♣
+Player 6: 10♦, 10♦
+Player 7: 9♦, 9♦
+Player 8: 5♣, 5♣
+Player 1 Odds:11.72%
+Player 2 Odds:13.44%
+Player 3 Odds:7.81%
+Player 4 Odds:12.23%
+Player 5 Odds:13.62%
+Player 6 Odds:11.8%
+Player 7 Odds:13.91%
+Player 8 Odds:12.12%
+Draw Odds:3.35%
+Player 1 Odds:11.74%
+Player 2 Odds:78.98%
+Player 3 Odds:0.57%
+Player 4 Odds:4.17%
+Player 5 Odds:2.08%
+Player 6 Odds:0.0%
+Player 7 Odds:0.57%
+Player 8 Odds:1.7%
+Draw Odds:0.19%
+Player 1 Odds:6.25%
+Player 2 Odds:90.62%
+Player 3 Odds:0.0%
+Player 4 Odds:3.12%
+Player 5 Odds:0.0%
+Player 6 Odds:0.0%
+Player 7 Odds:0.0%
+Player 8 Odds:0.0%
+Draw Odds:0.0%
+END OF RECORD
+
+START OF RECORD
+Players:
+Player 1: 9♣, 9♣
+Player 2: 5♠, 5♠
+Player 1 Odds:40.12%
+Player 2 Odds:36.64%
+Draw Odds:23.24%
+Player 1 Odds:82.63%
+Player 2 Odds:16.46%
+Draw Odds:0.91%
+Player 1 Odds:84.09%
+Player 2 Odds:15.91%
+Draw Odds:0.0%
+END OF RECORD
+
+START OF RECORD
+Players:
+Player 1: 7♣, 7♣
+Player 2: 3♦, 3♦
+Player 3: 3♥, 3♥
+Player 1 Odds:44.36%
+Player 2 Odds:15.8%
+Player 3 Odds:19.23%
+Draw Odds:20.61%
+Player 1 Odds:27.57%
+Player 2 Odds:8.97%
+Player 3 Odds:10.63%
+Draw Odds:52.82%
+Player 1 Odds:23.81%
+Player 2 Odds:7.14%
+Player 3 Odds:7.14%
+Draw Odds:61.9%
+END OF RECORD
+
+START OF RECORD
+Players:
+Player 1: 10♦, 10♦
+Player 2: 9♦, 9♦
+Player 1 Odds:39.91%
+Player 2 Odds:42.04%
+Draw Odds:18.05%
+Player 1 Odds:28.79%
+Player 2 Odds:20.61%
+Draw Odds:50.61%
+Player 1 Odds:13.64%
+Player 2 Odds:13.64%
+Draw Odds:72.73%
+END OF RECORD
+
+START OF RECORD
+Players:
+Player 1: 5♣, 5♣
+Player 2: 7♥, 7♥
+Player 1 Odds:29.25%
+Player 2 Odds:51.51%
+Draw Odds:19.24%
+Player 1 Odds:21.31%
+Player 2 Odds:29.7%
+Draw Odds:48.99%
+Player 1 Odds:9.09%
+Player 2 Odds:34.09%
+Draw Odds:56.82%
+END OF RECORD
+
+START OF RECORD
+Players:
+Player 1: K♥, K♥
+Player 2: J♥, J♥
+Player 1 Odds:44.44%
+Player 2 Odds:37.48%
+Draw Odds:18.08%
+Player 1 Odds:86.16%
+Player 2 Odds:13.84%
+Draw Odds:0.0%
+Player 1 Odds:84.09%
+Player 2 Odds:15.91%
+Draw Odds:0.0%
+END OF RECORD
+
+START OF RECORD
+Players:
+Player 1: 8♠, 8♠
+Player 2: Q♦, Q♦
+Player 1 Odds:43.37%
+Player 2 Odds:37.73%
+Draw Odds:18.9%
+Player 1 Odds:81.31%
+Player 2 Odds:18.69%
+Draw Odds:0.0%
+Player 1 Odds:79.55%
+Player 2 Odds:20.45%
+Draw Odds:0.0%
+END OF RECORD
+
+START OF RECORD
+Players:
+Player 1: 8♣, 8♣
+Player 2: 10♥, 10♥
+Player 1 Odds:37.31%
+Player 2 Odds:45.47%
+Draw Odds:17.22%
+Player 1 Odds:9.29%
+Player 2 Odds:90.71%
+Draw Odds:0.0%
+Player 1 Odds:0.0%
+Player 2 Odds:100.0%
+Draw Odds:0.0%
+END OF RECORD
+
