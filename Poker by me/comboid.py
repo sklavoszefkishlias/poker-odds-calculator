@@ -1,5 +1,4 @@
 def getCombo(hand):
-    #test change
     #getCombo returns the code of the card combinations the 5 cards of the hand object it receives
     #and it either returns and empty array when a same comboination code comparason dont need the
     # compisition of the cards(it just depends on he max of the sum of the cards example:Straights,
